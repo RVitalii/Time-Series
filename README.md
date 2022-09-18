@@ -1,7 +1,7 @@
 # Time-Series
 
 ## Short Description 
-This is a selection of time series project with application to finance done during my Master's studies.
+This is a selection of time series projects with application to finance done during my Master's studies.
 
 ## How to read files
 Please, follow these steps to view a content of R reports saved as HTML files: 
